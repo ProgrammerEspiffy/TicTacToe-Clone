@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://i3tob5jubb7p"]
+
+[ext_resource type="Texture2D" uid="uid://ekd3arbe7hyd" path="res://assets/Tabuleiro - Copia.png" id="1_vndux"]
+
+[node name="Tabuleiro" type="Sprite2D"]
+scale = Vector2(35, 35)
+texture = ExtResource("1_vndux")
